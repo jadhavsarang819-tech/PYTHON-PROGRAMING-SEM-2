@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 23 03:20:54 2026
 
-@author: Shahuraj Mane
+@author:  Sarang
 """
 
 copies = int(input("Enter number of receipt copies: "))
