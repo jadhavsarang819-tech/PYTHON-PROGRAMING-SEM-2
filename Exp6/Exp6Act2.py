@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  2 20:44:35 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 filename = "attendance.txt"
