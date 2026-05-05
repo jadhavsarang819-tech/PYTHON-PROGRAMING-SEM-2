@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 30 15:35:24 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 class ATM:
     def __init__(self, balance):
