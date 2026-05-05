@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  2 20:08:16 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 file_name = "course_outcomes.txt"
 
