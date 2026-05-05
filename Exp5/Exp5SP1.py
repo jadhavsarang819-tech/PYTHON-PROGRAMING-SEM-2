@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 10:20:26 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 student = {}
