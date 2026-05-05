@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 21 04:32:55 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 class Employee:
