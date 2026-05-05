@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 21 05:11:49 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 class BankAccount:
