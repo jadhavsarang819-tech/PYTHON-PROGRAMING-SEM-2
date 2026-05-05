@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 10:12:24 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 string = input("Enter a string: ")
