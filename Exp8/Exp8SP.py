@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 30 14:33:17 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 numbers = [10, 20, 30]
