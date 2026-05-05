@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  2 20:37:34 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 filename = "expenses.txt"
