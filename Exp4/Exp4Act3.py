@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 09:48:59 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 review = input("Enter the review: ")
