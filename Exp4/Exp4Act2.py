@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 10 11:07:05 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 n = int(input("Enter number of Products:"))
