@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 10:49:11 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 classA = set(map(int, input("Enter roll numbers for Class A: ").split()))
