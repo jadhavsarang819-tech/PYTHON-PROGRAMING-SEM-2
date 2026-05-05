@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 11 22:03:46 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 age = int(input("Enter age:"))
