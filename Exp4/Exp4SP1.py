@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 10:03:02 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 n = int(input("Enter number of elements: ")) 
