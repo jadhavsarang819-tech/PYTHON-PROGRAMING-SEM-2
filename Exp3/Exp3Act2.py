@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 23 03:30:54 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 def calculate_emi(principal, annual_rate, years):
