@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 21 05:45:00 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 def divide_bill():
