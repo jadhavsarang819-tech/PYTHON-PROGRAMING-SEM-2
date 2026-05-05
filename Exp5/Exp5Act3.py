@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 11:02:37 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 items = input("Enter purchased items separated by space: ").split()
