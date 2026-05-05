@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 28 05:07:44 2026
 
-@author: Shahuraj
+@author: Sarang
 """
 
 import random
