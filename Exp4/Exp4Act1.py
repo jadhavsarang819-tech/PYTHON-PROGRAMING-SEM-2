@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 10 10:25:19 2026
 
-@author: Shahuraj Mane
+@author: Sarang
 """
 
 n = int(input("Enter number of Students:"))
